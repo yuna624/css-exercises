@@ -1,15 +1,15 @@
 .odd-number{
-    background-color: hsl(0, 74%, 77%);
+    background-color: hsl(0, 88%, 80%);
     font-family: verdana, "DejaVu sans", sans-serif;
 }
 #number2 {
-    color: hsl(240, 82%, 63%);
+    color: hsl(240, 83%, 58%);
     font-size: 36px;
 }
 .oddnumber.number3,#number4{
     font-size:24px;
 }
 #number4{
-    background-color: hsl(120, 83%, 72%);
+    background-color: hsl(120, 79%, 72%);
     font-weight: bold;
 }
